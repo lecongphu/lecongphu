@@ -1,39 +1,39 @@
-<h1 align="center">Hi, I'm Le Cong Phu 👋</h1>
+<h1 align="center">Xin chào, mình là Lê Công Phú 👋</h1>
 <p align="center">
-  <em>Builder focused on practical automation, AI workflows, and real-world software delivery.</em>
+  <em>Người xây dựng giải pháp tự động hoá thực tế, workflow AI và sản phẩm phần mềm có giá trị sử dụng cao.</em>
 </p>
 
 ---
 
-## About Me
+## Giới thiệu
 
-- 🔧 I build tools that solve day-to-day problems fast.
-- 🤖 Interested in AI assistants, automation systems, and backend workflows.
-- 📈 I care about clean architecture, reliability, and measurable outcomes.
-- 🌱 Currently improving: scalable agent orchestration and production-grade DevOps.
+- 🔧 Mình tập trung xây dựng công cụ giải quyết bài toán thực tế, nhanh và hiệu quả.
+- 🤖 Quan tâm đến trợ lý AI, hệ thống tự động hoá và workflow backend.
+- 📈 Ưu tiên kiến trúc rõ ràng, độ ổn định cao và kết quả đo lường được.
+- 🌱 Hiện đang nâng cấp kỹ năng về orchestration cho AI agent và DevOps production.
 
-## Tech Stack
+## Kỹ năng công nghệ
 
-- **Languages:** JavaScript/TypeScript, Python, SQL
-- **Backend:** Node.js, REST APIs, WebSocket services
-- **Data:** PostgreSQL, Redis
+- **Ngôn ngữ:** JavaScript/TypeScript, Python, SQL
+- **Backend:** Node.js, REST API, WebSocket services
+- **Dữ liệu:** PostgreSQL, Redis
 - **DevOps:** Docker, Linux, CI/CD, GitHub Actions
-- **AI/Automation:** LLM integrations, workflow automation, chatbot systems
-- **Professional Presence:** LinkedIn profile optimization
+- **AI/Tự động hoá:** Tích hợp LLM, tự động hoá workflow, hệ thống chatbot
+- **Xây dựng hình ảnh chuyên nghiệp:** Tối ưu hồ sơ LinkedIn
 
-## Featured Work
+## Dự án nổi bật
 
-- **Automation Bots** — Process automation for repetitive business tasks
-- **AI Assistants** — Multi-channel assistant workflows (chat + tooling)
-- **Sales/CRM Integrations** — Lead capture and routing pipelines
+- **Automation Bots** — Tự động hoá các tác vụ lặp lại trong vận hành/doanh nghiệp
+- **AI Assistants** — Trợ lý AI đa kênh (chat + tích hợp công cụ)
+- **Sales/CRM Integrations** — Pipeline thu thập và phân luồng khách hàng tiềm năng
 
-> I’m open to collaboration on practical AI and automation projects.
+> Mình sẵn sàng hợp tác trong các dự án AI và tự động hoá mang tính ứng dụng cao.
 
-## Contact
+## Liên hệ
 
 - 📫 Email: **lecongphu1412@gmail.com**
 - ✈️ Telegram: **http://t.me/lecongphu1412**
 
 ---
 
-<p align="center"><sub>"Ship useful things."</sub></p>
+<p align="center"><sub>"Làm ra thứ hữu ích, rồi ship thật tốt."</sub></p>
