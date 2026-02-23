@@ -32,7 +32,6 @@
 ## Contact
 
 - 📫 Email: **lecongphu1412@gmail.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/ph%C3%BA-l%C3%AA-7415b99a/**
 
 ---
 
