@@ -32,6 +32,7 @@
 ## Contact
 
 - 📫 Email: **lecongphu1412@gmail.com**
+- ✈️ Telegram: **http://t.me/lecongphu1412**
 
 ---
 
