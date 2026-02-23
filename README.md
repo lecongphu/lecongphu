@@ -19,6 +19,7 @@
 - **Data:** PostgreSQL, Redis
 - **DevOps:** Docker, Linux, CI/CD, GitHub Actions
 - **AI/Automation:** LLM integrations, workflow automation, chatbot systems
+- **Professional Presence:** LinkedIn profile optimization
 
 ## Featured Work
 
@@ -30,7 +31,7 @@
 
 ## Contact
 
-- 📫 Email: **your.email@example.com**
+- 📫 Email: **lecongphu1412@gmail.com**
 - 💼 LinkedIn: **https://linkedin.com/in/your-profile**
 
 ---
